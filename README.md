@@ -14,13 +14,13 @@ None
 None
 
 ## Extra Credit
-Levels
-Save and Quit system
-Menu and HUD
-Camera
-Player with movement controls
-Enemies
-Coins
+Levels,
+Save and Quit system,
+Menu and HUD,
+Camera,
+Player with movement controls,
+Enemies,
+Coins.
 
 ## Created by 
 Liam Walsh
